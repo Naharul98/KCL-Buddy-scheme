@@ -6,7 +6,6 @@ A web-based application which connects/pairs freshers with senior students, base
 * Bootstrap 4
 * Laravel
 * Bootstrap select picker - https://developer.snapappointments.com/bootstrap-select/
-* jQuery 3.3.1
 * Codeception
 
 ## Deployed version
