@@ -13,6 +13,10 @@ A web-based application which connects/pairs freshers with senior students, base
 
 The deployed version of the website is located at: http://kclbuddyscheme.000webhostapp.com/
 
+## Background and purpose
+
+In 2018/19, the Department introduced a student-led buddy scheme. This is an informal support scheme to help students in the department network across the different years. New first-year students who sign up to the scheme are allocated a more senior student as their buddy so that the former can benefit from the experience of the latter. The scheme was administered manually by students using microsoft excel spreadsheet, and students were allocated manually which was very cumbersome, which brings us to the aim of the project which is to produce a system to automate aspects of the administration of the buddy scheme, such as signup, verification of participants, allocation/pairing based on interests and monitoring and evaluation of the scheme.
+
 ## Basic directory structure
 * All the front end HTML pages can be found in resources/views
 * All core javascript components can be found in public/js
