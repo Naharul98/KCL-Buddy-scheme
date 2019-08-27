@@ -2,6 +2,13 @@
 
 A web-based application which connects/pairs freshers with senior students, based on common interests. Also automate aspects of the administration of the buddy scheme, such as signup, verification of participants, allocation and, monitoring and evaluation of the scheme.
 
+## API and Frameworks used
+* Bootstrap 4
+* Laravel
+* Bootstrap select picker - https://developer.snapappointments.com/bootstrap-select/
+* jQuery 3.3.1
+* Codeception
+
 ## Deployed version
 
 The deployed version of the website is located at: http://kclbuddyscheme.000webhostapp.com/
@@ -12,11 +19,9 @@ The deployed version of the website is located at: http://kclbuddyscheme.000webh
 * The primary web route is contained in routes/web.php
 * All the controllers are located in app/Http/Controllers/
 * Security middleware is located in app/Http/Middleware/
-* The mejority of connection configurations are defined in the root .env file
+* The majority of connection configurations are defined in the root .env file
 
-## Running the website
-
-### Running the webpage
+### Running the website from source
 To run the development version of the application, you must have composer installed. After this, ensure you are in the project directory and run:
 
 * composer install
@@ -26,7 +31,7 @@ This will give an url, usually http://localhost:8000, which you can copy and pas
 
 
 
-### Running the tests
+### Running the tests from source
 To run the development version of the application, you must have composer installed. After this, ensure you are in the project directory and run: composer install
  
 After this, simply run the following command, and keep the terminal running: php artisan serve
@@ -41,9 +46,4 @@ This will run all the tests we have available, including all: unit, functional a
 
 Please note that the acceptance tests will fail unless you have another copy of command prompt running php artisan serve in the back-ground.
 
-## API and Frameworks used
-* Bootstrap 4
-* Laravel
-* Bootstrap select picker - https://developer.snapappointments.com/bootstrap-select/
-* jQuery 3.3.1
-* Codeception
+
