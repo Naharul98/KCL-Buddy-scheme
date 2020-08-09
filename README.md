@@ -18,10 +18,6 @@ A version was deployed for demonstration purposes, which can be accessed from th
 
 In 2018/19, the Department introduced a student-led buddy scheme. This is an informal support scheme to help students in the department network across the different years. New first-year students who sign up to the scheme are allocated a more senior student as their buddy so that the former can benefit from the experience of the latter. The scheme was administered manually by students using microsoft excel spreadsheet, and students were allocated manually which was very cumbersome, which brings us to the aim of the project which is to produce a system to automate aspects of the administration of the buddy scheme, such as signup, verification of participants, allocation/pairing based on interests and monitoring and evaluation of the scheme.
 
-## Documentation
-
-For a full project documentation/report, please check 'documentation.pdf' in the repo
-
 ### Running the website from source
 To run the development version of the application, you must have composer installed. After this, ensure you are in the project directory and run:
 
