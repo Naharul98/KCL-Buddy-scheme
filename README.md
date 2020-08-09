@@ -3,10 +3,10 @@
 A web-based application which connects/pairs freshers with senior students, based on common interests. Also automate aspects of the administration of the buddy scheme, such as signup, verification of participants, allocation and, monitoring and evaluation of the scheme.
 
 ## API and Frameworks used
-* Bootstrap 4
-* Laravel
-* Bootstrap select picker - https://developer.snapappointments.com/bootstrap-select/
-* Codeception
+* [Bootstrap 4](https://getbootstrap.com)
+* [Laravel](https://laravel.com)
+* [Bootstrap select picker](https://developer.snapappointments.com/bootstrap-select/)
+* [Codeception](https://codeception.com)
 
 ## Deployed version
 
