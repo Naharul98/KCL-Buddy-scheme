@@ -22,14 +22,6 @@ In 2018/19, the Department introduced a student-led buddy scheme. This is an inf
 
 For a full project documentation/report, please check 'documentation.pdf' in the repo
 
-## Basic directory structure
-* All the front end HTML pages can be found in resources/views
-* All core javascript components can be found in public/js
-* The primary web route is contained in routes/web.php
-* All the controllers are located in app/Http/Controllers/
-* Security middleware is located in app/Http/Middleware/
-* The majority of connection configurations are defined in the root .env file
-
 ### Running the website from source
 To run the development version of the application, you must have composer installed. After this, ensure you are in the project directory and run:
 
@@ -55,5 +47,13 @@ To run the tests, again ensure you have composer installed and php artisan serve
 This will run all the tests we have available, including all: unit, functional and acceptance tests. Bear in mind this can be quite time consuming and can last up to 5 minutes.
 
 Please note that the acceptance tests will fail unless you have another copy of command prompt running php artisan serve in the background.
+
+## Basic directory structure
+* All the front end HTML pages can be found in resources/views
+* All core javascript components can be found in public/js
+* The primary web route is contained in routes/web.php
+* All the controllers are located in app/Http/Controllers/
+* Security middleware is located in app/Http/Middleware/
+* The majority of connection configurations are defined in the root .env file
 
 
