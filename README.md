@@ -31,7 +31,7 @@ For a full project documentation/report, please check 'documentation.pdf' in the
 ### Running the website from source
 To run the development version of the application, you must have composer installed. After this, ensure you are in the project directory and run:
 
-* composer install
+> composer install
 
 After this, simply run the following command, and keep the terminal running: php artisan serve
 This will give an url, usually http://localhost:8000, which you can copy and paste into the browser to start the application.
@@ -41,16 +41,17 @@ This will give an url, usually http://localhost:8000, which you can copy and pas
 ### Running the tests from source
 To run the development version of the application, you must have composer installed. After this, ensure you are in the project directory and run: composer install
  
-After this, simply run the following command, and keep the terminal running: php artisan serve
+After this, simply run the following command, and keep the terminal running:
+> php artisan serve
  
 This will give an url, usually http://localhost:8000, which you can copy and paste into the browser to start the application.
  
 To run the tests, again ensure you have composer installed and php artisan serve running, then execute:
  
-vendor\bin\codecept run
+> vendor\bin\codecept run
  
 This will run all the tests we have available, including all: unit, functional and acceptance tests. Bear in mind this can be quite time consuming and can last up to 5 minutes.
 
-Please note that the acceptance tests will fail unless you have another copy of command prompt running php artisan serve in the back-ground.
+Please note that the acceptance tests will fail unless you have another copy of command prompt running php artisan serve in the background.
 
 
