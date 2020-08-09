@@ -10,7 +10,9 @@ A web-based application which connects/pairs freshers with senior students, base
 
 ## Deployed version
 
-The deployed version of the website is located at: http://kclbuddyscheme.000webhostapp.com/
+A version was deployed for demonstration purposes, which can be accessed from the following link:
+
+> http://kclbuddyscheme.000webhostapp.com/
 
 ## Background and purpose
 
