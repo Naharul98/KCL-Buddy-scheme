@@ -53,6 +53,6 @@ Please note that the acceptance tests will fail unless you have another copy of 
 * The primary web route is contained in routes/web.php
 * All the controllers are located in app/Http/Controllers/
 * Security middleware is located in app/Http/Middleware/
-* The majority of connection configurations are defined in the root .env file
+* Connection configurations are defined in the root .env file
 
 
