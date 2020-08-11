@@ -32,9 +32,8 @@ This will give an url, usually http://localhost:8000, which you can copy and pas
 
 
 ### Running the tests from source
-To run the development version of the application, you must have composer (https://getcomposer.org) installed. After this, ensure you are in the project directory and run: composer install
- 
-After this, simply run the following command, and keep the terminal running:
+Ensure you are in the project directory and run and simply run the following command, and keep the terminal running:
+
 > php artisan serve
  
 This will give an url, usually http://localhost:8000, which you can copy and paste into the browser to start the application.
