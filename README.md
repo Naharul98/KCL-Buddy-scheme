@@ -23,7 +23,10 @@ To run the development version of the application, you must have composer instal
 
 > composer install
 
-After this, simply run the following command, and keep the terminal running: php artisan serve
+After this, simply run the following command, and keep the terminal running: 
+
+> php artisan serve
+
 This will give an url, usually http://localhost:8000, which you can copy and paste into the browser to start the application.
 
 
