@@ -54,4 +54,8 @@ Please note that the acceptance tests will fail unless you have another copy of 
 * Security middleware is located in app/Http/Middleware/
 * Connection configurations are defined in the root .env file
 
-
+## API and Frameworks used
+* [Bootstrap 4](https://getbootstrap.com)
+* [Laravel](https://laravel.com)
+* [Bootstrap select picker](https://developer.snapappointments.com/bootstrap-select/)
+* [Codeception](https://codeception.com)
